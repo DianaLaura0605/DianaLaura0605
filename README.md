@@ -193,7 +193,7 @@ public class SensorData {
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/diana-bocardo/">
+<a href="[https://www.linkedin.com/in/diana-bocardo/](https://www.linkedin.com/in/diana-bocardo-79a1b9377 )">
 <img src="https://img.shields.io/badge/LinkedIn-Diana%20Bocardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
