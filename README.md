@@ -23,21 +23,39 @@ I am actively preparing for engineering roles at <b>Intel, Micron, and Texas Ins
 
 ## 🧠 Core Technical Skills
 
-### 💻 Programming Languages (with practical usage)
+### 💻 Programming Languages & Simulation Tools (with practical usage)
 
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge\&logo=arduino\&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-**Estimated Lines of Code (academic + projects):**
+---
+
+### 🔧 Electronics & Simulation Software
+
+![Proteus](https://img.shields.io/badge/Proteus-1F1F1F.svg?style=for-the-badge)
+![Circuit%20Wizard](https://img.shields.io/badge/Circuit%20Wizard-2E86C1.svg?style=for-the-badge)
+
+---
+
+### 📊 Estimated Lines of Code (academic + projects)
 
 * **C++:** ~12,000+ LOC (signal processing, algorithms, data handling)
 * **Arduino (C/C++):** ~9,000+ LOC (embedded control, sensor acquisition)
-* **MATLAB:** ~8,000+ LOC (signal & image processing, analysis)
+* **Python:** ~6,000+ LOC (automation scripts, data analysis, simulations)
+* **MATLAB:** ~8,000+ LOC (signal & image processing, numerical analysis)
 * **Java:** ~4,000+ LOC (structured programming, OOP)
 * **HTML:** ~3,000+ LOC (interfaces, visualization support)
+
+---
+
+### ⚡ Simulation & Design Experience
+
+* **Proteus:** microcontroller simulation, circuit testing, virtual prototyping  
+* **Circuit Wizard:** electronic circuit design, simulation & educational projects  
 
 > *LOC values are cumulative across university projects and continuous development.*
 
@@ -118,6 +136,26 @@ public class SensorData {
 ```
 
 ---
+### 🔹 Python — Data Analysis & Signal Processing
+
+```python
+import numpy as np
+
+def moving_average(signal, window):
+    """
+    Simple moving average filter for signal smoothing
+    """
+    signal = np.array(signal)
+    return np.convolve(signal, np.ones(window) / window, mode='valid')
+
+# Example usage
+raw_signal = [0.8, 1.0, 0.9, 1.1, 1.0, 0.95]
+filtered_signal = moving_average(raw_signal, window=3)
+print(filtered_signal)
+
+```
+
+
 
 ## ⚙️ Hardware & Embedded Systems Focus (Industry-Oriented)
 
