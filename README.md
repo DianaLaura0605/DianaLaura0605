@@ -222,8 +222,11 @@ print(filtered_signal)
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dianabocardo&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dianabocardo&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=dianabocardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dianabocardo&theme=tokyonight&hide_border=true" width="48%" />
+
 </div>
 
 ---
@@ -231,13 +234,16 @@ print(filtered_signal)
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/diana-bocardo/](https://www.linkedin.com/in/diana-bocardo-79a1b9377 )">
-<img src="https://img.shields.io/badge/LinkedIn-Diana%20Bocardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/diana-bocardo-79a1b9377" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Diana%20Bocardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-⭐ <i>Industry-ready engineering portfolio — built for impact.</i>
+<p align="center">
+  
+  ⭐ <i>Industry-ready engineering portfolio — built for impact.</i>
+</p>
